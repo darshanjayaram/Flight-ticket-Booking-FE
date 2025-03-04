@@ -11,7 +11,7 @@ const HeroPage = () => {
           <Container className="d-flex justify-content-center">
             <Card className="mt-4 p-4 d-flex flex-column align-items-center">
               <h1 className="text-center mb-4">
-                MERN - Flight Ticket Booking WebApp
+              Flight Booking and Reservation System
               </h1>
               <p className="text-center mb-4 fs-5">
                 Guvi Capstone Project
@@ -32,7 +32,7 @@ const HeroPage = () => {
           <Container className="d-flex justify-content-center">
             <Card className="mt-4 p-4 d-flex flex-column align-items-center">
               <h1 className="text-center mb-4">
-                MERN - Flight Ticket Booking WebApp
+              Flight Booking and Reservation System
               </h1>
               <p className="text-center mb-4 fs-5">
                 Guvi Capstone Project
