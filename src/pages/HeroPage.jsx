@@ -14,15 +14,20 @@ const HeroPage = () => {
               Flight Booking and Reservation System
               </h1>
               <p className="text-center mb-4 fs-5">
-                Guvi Capstone Project
+                GUVI Capstone Project
               </p>
               <strong>
                 Kindly Signin or SignUp for any search and booking flights
               </strong>
               <i>
-                *** for admin signin use this credentials{" "}
+                *** for admin login use this credentials{" "}
                 <strong>email: </strong>
                 admin@gmail.com <strong>password: </strong>123456789 ***
+              </i>
+              <i>
+                *** for user login use this credentials{" "}
+                <strong>email: </strong>
+                user@gmail.com <strong>password: </strong>123456789 ***
               </i>
             </Card>
           </Container>
@@ -35,7 +40,7 @@ const HeroPage = () => {
               Flight Booking and Reservation System
               </h1>
               <p className="text-center mb-4 fs-5">
-                Guvi Capstone Project
+                GUVI Capstone Project
               </p>
               
               <strong>
@@ -45,6 +50,11 @@ const HeroPage = () => {
                 *** for admin signin use this credentials{" "}
                 <strong>email: </strong>
                 admin@gmail.com <strong>password: </strong>123456789 ***
+              </i>
+              <i>
+                *** for user login use this credentials{" "}
+                <strong>email: </strong>
+                user@gmail.com <strong>password: </strong>123456789 ***
               </i>
             </Card>
           </Container>
