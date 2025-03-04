@@ -12,13 +12,6 @@ For future updates, I plan to introduce features for updating bookings, users an
 
 Project Setup Locally in VSCode Terminal
 
-```
-  git clone https://github.com/jameel-webdev/flight-ticket-booking-app-frontend.git
-  cd flight-ticket-booking-app-frontend
-  npm install
-```
-or
-
 Download the zip file, Unzip it, open with VSCode and Run below code in terminal
 
 ```
