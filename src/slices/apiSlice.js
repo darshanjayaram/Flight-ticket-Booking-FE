@@ -1,7 +1,7 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react"; //RTK Query
 
 const baseQuery = fetchBaseQuery({
-  baseUrl: "http://localhost:8000",
+  baseUrl: "https://flight-ticket-booking-be.onrender.com",
   credentials: "include",
 });
 
