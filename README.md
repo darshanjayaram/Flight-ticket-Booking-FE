@@ -43,7 +43,7 @@ Kindly Wait for 25sec by following the instructions to complete the payment proc
 To view your booking history, click on the "Go to my trips" button in transaction page or "My Trips" in the side navigation bar. Here, you can see a list of all your past and upcoming bookings.
 
 #### Admin Credentials:
-##### email : admin123@gmail.com
+##### email : admin@gmail.com
 password : admin123
 
 ## Screenshots
